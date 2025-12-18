@@ -1,0 +1,2 @@
+# CMN
+ Constraint manifold networks
