@@ -25,7 +25,7 @@ The CMN is a dynamical system architecture that replaces function approximation 
 ### 2. The Hierarchical CMN (H-CMN)
 
 * **Contextual Governance:** A higher executive layer (L_2) monitors the distress of the sensory layer (L_1).
-* **Empathy Gradient (\nabla_{x_2}v_1):** A mathematical primitive that allows L_2 to "feel" L_1's violation and adjust the context state x_2 to resolve it.
+* **Empathy Gradient :** A mathematical primitive that allows L_2 to "feel" L_1's violation and adjust the context state x_2 to resolve it.
 * **Phase Transition:** In response to a rule change (Context Switch), L_2 executes a rapid state shift to restructure L_1's constraints, solving the paradox dynamically.
 
 ## Repository Structure
