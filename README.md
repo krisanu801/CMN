@@ -12,7 +12,7 @@ The CMN is a dynamical system architecture that replaces function approximation 
 
 * **Intrinsic Normativity:** Detecting "impossible" inputs without external labels.
 * **Contextual Governance:** Autonomously resolving paradoxes via top-down constraint modulation.
-
+![Architectural Evolution](main.png)
 ## Key Concepts
 
 ### 1. The Single-Layer CMN
